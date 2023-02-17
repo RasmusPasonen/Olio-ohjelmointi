@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Nuoliakuapan_yritys_2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Nuoliakauapn.cs" Link="Nuoliakauapn.cs" />
+  </ItemGroup>
+
+</Project>
