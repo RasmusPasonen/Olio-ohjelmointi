@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s2101044\\OneDrive - Business College Helsinki\\Tiedostot\\olio-harjoitus\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2.csproj": {}
+    "C:\\Users\\s2101044\\source\\repos\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s2101044\\OneDrive - Business College Helsinki\\Tiedostot\\olio-harjoitus\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2.csproj": {
+    "C:\\Users\\s2101044\\source\\repos\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s2101044\\OneDrive - Business College Helsinki\\Tiedostot\\olio-harjoitus\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2.csproj",
-        "projectName": "Nuoliakuapan yritys 2",
-        "projectPath": "C:\\Users\\s2101044\\OneDrive - Business College Helsinki\\Tiedostot\\olio-harjoitus\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2.csproj",
+        "projectUniqueName": "C:\\Users\\s2101044\\source\\repos\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3.csproj",
+        "projectName": "Nuoliakaupan 3.3",
+        "projectPath": "C:\\Users\\s2101044\\source\\repos\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3.csproj",
         "packagesPath": "C:\\Users\\s2101044\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s2101044\\OneDrive - Business College Helsinki\\Tiedostot\\olio-harjoitus\\Nuoliakuapan yritys 2\\Nuoliakuapan yritys 2\\obj\\",
+        "outputPath": "C:\\Users\\s2101044\\source\\repos\\Nuoliakaupan 3.3\\Nuoliakaupan 3.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2101044\\AppData\\Roaming\\NuGet\\NuGet.Config",
