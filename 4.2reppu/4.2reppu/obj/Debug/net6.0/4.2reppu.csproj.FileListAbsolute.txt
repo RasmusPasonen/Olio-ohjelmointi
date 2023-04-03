@@ -1,0 +1,15 @@
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\bin\Debug\net6.0\4.2reppu.exe
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\bin\Debug\net6.0\4.2reppu.deps.json
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\bin\Debug\net6.0\4.2reppu.runtimeconfig.json
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\bin\Debug\net6.0\4.2reppu.dll
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\bin\Debug\net6.0\4.2reppu.pdb
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.csproj.AssemblyReference.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.AssemblyInfoInputs.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.AssemblyInfo.cs
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.csproj.CoreCompileInputs.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.dll
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\refint\4.2reppu.dll
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.pdb
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\4.2reppu.genruntimeconfig.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\4.2reppu\4.2reppu\obj\Debug\net6.0\ref\4.2reppu.dll
