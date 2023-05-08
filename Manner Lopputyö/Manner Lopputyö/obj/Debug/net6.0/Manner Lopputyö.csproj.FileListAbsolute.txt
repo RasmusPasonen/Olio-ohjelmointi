@@ -1,0 +1,15 @@
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\bin\Debug\net6.0\Manner Lopputyö.exe
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\bin\Debug\net6.0\Manner Lopputyö.deps.json
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\bin\Debug\net6.0\Manner Lopputyö.runtimeconfig.json
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\bin\Debug\net6.0\Manner Lopputyö.dll
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\bin\Debug\net6.0\Manner Lopputyö.pdb
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.csproj.AssemblyReference.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.AssemblyInfoInputs.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.AssemblyInfo.cs
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.csproj.CoreCompileInputs.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.dll
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\refint\Manner Lopputyö.dll
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.pdb
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\Manner Lopputyö.genruntimeconfig.cache
+C:\Users\s2101044\OneDrive - Business College Helsinki\Tiedostot\olio-harjoitus\Manner Lopputyö\Manner Lopputyö\obj\Debug\net6.0\ref\Manner Lopputyö.dll
