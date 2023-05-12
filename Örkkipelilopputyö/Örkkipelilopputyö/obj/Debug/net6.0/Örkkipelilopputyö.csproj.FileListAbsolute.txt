@@ -1,0 +1,15 @@
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\bin\Debug\net6.0\Örkkipelilopputyö.exe
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\bin\Debug\net6.0\Örkkipelilopputyö.deps.json
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\bin\Debug\net6.0\Örkkipelilopputyö.runtimeconfig.json
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\bin\Debug\net6.0\Örkkipelilopputyö.dll
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\bin\Debug\net6.0\Örkkipelilopputyö.pdb
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.csproj.AssemblyReference.cache
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.AssemblyInfoInputs.cache
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.AssemblyInfo.cs
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.csproj.CoreCompileInputs.cache
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.dll
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\refint\Örkkipelilopputyö.dll
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.pdb
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\Örkkipelilopputyö.genruntimeconfig.cache
+C:\Users\s2101044\source\repos\Örkkipelilopputyö\Örkkipelilopputyö\obj\Debug\net6.0\ref\Örkkipelilopputyö.dll
